@@ -1,0 +1,24 @@
+{
+  "name": "Express-Portfolio-Site",
+  "version": "1.0.0",
+  "description": "A personal project portfolio site made with Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SteelMasterJ/Express-Portfolio-Site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SteelMasterJ/Express-Portfolio-Site/issues"
+  },
+  "homepage": "https://github.com/SteelMasterJ/Express-Portfolio-Site#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.0"
+  }
+}
