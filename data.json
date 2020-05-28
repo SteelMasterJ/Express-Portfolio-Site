@@ -7,7 +7,7 @@
         "technologies": ["JavaScript", "HTML", "CSS"],
         "live_link": "https://practical-noyce-3d269f.netlify.app/",
         "github_link": "https://github.com/SteelMasterJ/project1-random-quotes",
-        "image_urls": ["./public/images/Quotes550-550.png", "./public/images/quotes1200-550.png", "./public/images/quoteslayout1200-550.png"]
+        "image_urls": ["/static/images/Quotes550-550.png", "/static/images/quotes1200-550.png", "/static/images/quoteslayout1200-550.png"]
         },
         {
         "id": 1,
@@ -16,7 +16,7 @@
         "technologies": ["JavaScript", "HTML", "CSS"],
         "live_link": "https://zen-lalande-eb7180.netlify.app/#",
         "github_link": "https://github.com/SteelMasterJ/Pagination-Project",
-        "image_urls": ["./public/images/Pagination550-550.png", "./public/images/Pagination1200-550.png", "./public/images/Paginationlayout1200-550.png"]
+        "image_urls": ["/static/images/Pagination550-550.png", "/static/images/Pagination1200-550.png", "/static/images/Paginationlayout1200-550.png"]
         },
         {
         "id": 2,
@@ -25,7 +25,7 @@
         "technologies": ["JavaScript", "HTML", "CSS"],
         "live_link": "https://wonderful-kowalevski-a6146e.netlify.app/",
         "github_link": "https://github.com/SteelMasterJ/Project-3-Interactive-Form",
-        "image_urls": ["./public/images/Form550-550.png", "./public/images/Form1200-550.png", "./public/images/Formlayout1200-550.png"]
+        "image_urls": ["/static/images/Form550-550.png", "/static/images/Form1200-550.png", "/static/images/Formlayout1200-550.png"]
         },
         {
         "id": 3,
@@ -34,7 +34,7 @@
         "technologies": ["JavaScript", "HTML", "CSS"],
         "live_link": "https://dazzling-yonath-f12a6c.netlify.app/",
         "github_link": "https://github.com/SteelMasterJ/Project-4-Hunter-Game",
-        "image_urls": ["./public/images/PhraseGame550-550.png", "./public/images/Phrase1200-550.png", "./public/images/Phraselayout1200-550.png"]
+        "image_urls": ["/static/images/PhraseGame550-550.png", "/static/images/Phrase1200-550.png", "/static/images/Phraselayout1200-550.png"]
         },
         {
         "id": 4,
@@ -43,7 +43,7 @@
         "technologies": ["JavaScript", "HTML", "CSS"],
         "live_link": "https://agitated-meitner-c698e7.netlify.app/",
         "github_link": "https://github.com/SteelMasterJ/Public-API-Requests",
-        "image_urls": ["./public/images/API550-550.png", "./public/images/API1200-550.png", "./public/images/APILayout1200-550.png"]
+        "image_urls": ["/static/images/API550-550.png", "/static/images/API1200-550.png", "/static/images/APILayout1200-550.png"]
         }
     ]
 }

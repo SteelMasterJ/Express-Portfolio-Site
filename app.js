@@ -16,7 +16,15 @@ app.get('/about', (req, res) => {
 });
 
 app.get('/:id', (req, res) => {
-    res.render('project');
+    const { id } = req.params;
+    res.render('project', {
+        title: projects[id].project_name,
+        description: projects[id].description,
+        technologies: projects[id].technologies,
+        liveLink: projects[id].live_link,
+        gitLink: projects[id].github_link,
+        images: projects[id].image_urls
+    });
 });
 
 app.listen(3000, () => {
