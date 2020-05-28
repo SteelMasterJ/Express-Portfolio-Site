@@ -7,7 +7,7 @@
         "technologies": ["JavaScript", "HTML", "CSS"],
         "live_link": "https://practical-noyce-3d269f.netlify.app/",
         "github_link": "https://github.com/SteelMasterJ/project1-random-quotes",
-        "image_urls": ["/static/images/Quotes550-550.png", "/static/images/quotesNew1200-550.png", "/static/images/quoteslayout1200-550.png"]
+        "image_urls": ["/static/images/Quotes550-550.png", "/static/images/quotesNew1200x550.png", "/static/images/quoteslayout1200-550.png"]
         },
         {
         "id": 1,
@@ -31,7 +31,7 @@
         "id": 3,
         "project_name": "Phrase Hunter Browser Game",
         "description": "A javascript browser game where you attempt to guess phrases based on the Gamehendge series, without making too many incorrect guesses",
-        "technologies": ["JavaScript", "HTML", "CSS"],
+        "technologies": ["JavaScript", "HTML", "CSS", "Object Oriented JavaScript"],
         "live_link": "https://dazzling-yonath-f12a6c.netlify.app/",
         "github_link": "https://github.com/SteelMasterJ/Project-4-Hunter-Game",
         "image_urls": ["/static/images/PhraseGame550-550.png", "/static/images/Phrase1200-550.png", "/static/images/Phraselayout1200-550.png"]
@@ -40,7 +40,7 @@
         "id": 4,
         "project_name": "Random User Public API",
         "description": "An Ajax API project using randomuser.me to fetch and display 12 random users and display them",
-        "technologies": ["JavaScript", "HTML", "CSS"],
+        "technologies": ["JavaScript", "HTML", "CSS", "Asynchronous JavaScript", "API Requests", "JSON"],
         "live_link": "https://agitated-meitner-c698e7.netlify.app/",
         "github_link": "https://github.com/SteelMasterJ/Public-API-Requests",
         "image_urls": ["/static/images/API550-550.png", "/static/images/API1200-550.png", "/static/images/APILayout1200-550.png"]
