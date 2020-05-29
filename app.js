@@ -46,6 +46,6 @@ app.use((err, req, res, next) => {
 });
 
 //setting up server to be on port 3000
-app.listen(3000, () => {
-    console.log('the application is running on localhost:3000')
+app.listen((process.env.PORT || 3000), () => {
+    console.log('the application is running on localhost:3000 or if using heroku it will be on localhost:5000')
 });
