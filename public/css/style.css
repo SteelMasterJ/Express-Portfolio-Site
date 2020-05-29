@@ -8,6 +8,7 @@ h1,h2,h3,h4,h5,p{
     letter-spacing: 2.5px;
     -webkit-text-transform: uppercase;
     text-transform: uppercase;
+    text-shadow: 2px 2px 8px #fefefe;
   }
 
   h6{
@@ -15,6 +16,7 @@ h1,h2,h3,h4,h5,p{
     -webkit-text-transform: uppercase;
     text-transform: uppercase;
     font-weight: 600;
+    text-shadow: 2px 2px 8px #fefefe;
   }
 
   p{
