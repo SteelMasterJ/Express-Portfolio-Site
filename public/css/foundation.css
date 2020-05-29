@@ -5007,6 +5007,13 @@ a.thumbnail {
   margin-bottom: 20px;
 }
 
+.logo-error {
+  display: inline-block;
+  width: 60px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
 .title-bar {
   padding: 0.5rem;
   background: #0a0a0a;
