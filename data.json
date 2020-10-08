@@ -46,13 +46,13 @@
         "image_urls": ["/static/images/API550-550.png", "/static/images/API1200-550.png", "/static/images/APILayout1200-550.png"]
         },
         {
-            "id": 4,
-            "project_name": "Random User Public API",
-            "description": "An Ajax API project using randomuser.me to fetch and display 12 random users and display them",
-            "technologies": ["JavaScript", "HTML", "CSS", "Asynchronous JavaScript", "API Requests", "JSON"],
-            "live_link": "https://agitated-meitner-c698e7.netlify.app/",
-            "github_link": "https://github.com/SteelMasterJ/Public-API-Requests",
-            "image_urls": ["/static/images/API550-550.png", "/static/images/API1200-550.png", "/static/images/APILayout1200-550.png"]
-            }
+        "id": 5,
+        "project_name": "React Photo API",
+        "description": "A React project that uses Flickr's API to search and display photos",
+        "technologies": ["JavaScript", "HTML", "CSS", "React", "API Requests", "React Router", "Create React App" , "Node.js", "npm"],
+        "live_link": "https://github.com/SteelMasterJ/React-Gallery-App",
+        "github_link": "https://github.com/SteelMasterJ/React-Gallery-App",
+        "image_urls": ["/static/images/Gallery550-550.png", "/static/images/Gallery1200-550.png", "/static/images/GalleryLayout1200-550.png"]
+        }
     ]
 }
