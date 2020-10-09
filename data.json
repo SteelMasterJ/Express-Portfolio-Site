@@ -52,6 +52,14 @@
         "technologies": ["JavaScript", "HTML", "CSS", "React", "API Requests", "React Router", "Create React App" , "Node.js", "npm"],
         "github_link": "https://github.com/SteelMasterJ/React-Gallery-App",
         "image_urls": ["/static/images/Gallery550-550.png", "/static/images/Gallery1200-550.png", "/static/images/GalleryLayout1200-550.png"]
+        },
+        {
+        "id": 6,
+        "project_name": "SQL Library Manager",
+        "description": "An SQL project that uses the Sequelize ORM to manage a digital library",
+        "technologies": ["JavaScript", "HTML", "CSS", "SQL", "SQL ORMs", "Sequelize", "Express" , "Pug", "Asynchronous JavaScript", "Node.js", "npm"],
+        "github_link": "https://github.com/SteelMasterJ/SQL-Book-Library-Manager-Project",
+        "image_urls": ["/static/images/SQL550-550.png", "/static/images/SQL1200-550.png", "/static/images/SQLLayout1200-550.png"]
         }
     ]
 }
