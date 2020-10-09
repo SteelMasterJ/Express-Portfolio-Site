@@ -50,7 +50,6 @@
         "project_name": "React Photo API",
         "description": "A React project that uses Flickr's API to search and display photos",
         "technologies": ["JavaScript", "HTML", "CSS", "React", "API Requests", "React Router", "Create React App" , "Node.js", "npm"],
-        "live_link": "https://github.com/SteelMasterJ/React-Gallery-App",
         "github_link": "https://github.com/SteelMasterJ/React-Gallery-App",
         "image_urls": ["/static/images/Gallery550-550.png", "/static/images/Gallery1200-550.png", "/static/images/GalleryLayout1200-550.png"]
         }
