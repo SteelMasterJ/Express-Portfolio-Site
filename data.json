@@ -49,7 +49,7 @@
         "id": 5,
         "project_name": "React Photo API",
         "description": "A React project that uses Flickr's API to search and display photos",
-        "technologies": ["JavaScript", "HTML", "CSS", "React", "API Requests", "React Router", "Create React App" , "Node.js", "npm"],
+        "technologies": ["JavaScript", "HTML", "CSS", "React", "API Requests", "React Router", "Create React App", "Node.js", "npm"],
         "github_link": "https://github.com/SteelMasterJ/React-Gallery-App",
         "image_urls": ["/static/images/Gallery550-550.png", "/static/images/Gallery1200-550.png", "/static/images/GalleryLayout1200-550.png"]
         },
@@ -57,9 +57,17 @@
         "id": 6,
         "project_name": "SQL Library Manager",
         "description": "An SQL project that uses the Sequelize ORM to manage a digital library",
-        "technologies": ["JavaScript", "HTML", "CSS", "SQL", "SQL ORMs", "Sequelize", "Express" , "Pug", "Asynchronous JavaScript", "Node.js", "npm"],
+        "technologies": ["JavaScript", "HTML", "CSS", "SQL", "SQL ORMs", "Sequelize", "Express", "Pug", "Asynchronous JavaScript", "Node.js", "npm"],
         "github_link": "https://github.com/SteelMasterJ/SQL-Book-Library-Manager-Project",
         "image_urls": ["/static/images/SQL550-550.png", "/static/images/SQL1200-550.png", "/static/images/SQLLayout1200-550.png"]
+        },
+        {
+        "id": 7,
+        "project_name": "Full Stack App",
+        "description": "An Full-Stack app that uses a REST API and a React client that can allow users to view a list of courses and the detail for a specific course, sign up to create an account or sign in with an existing account, and create, update, or delete courses.",
+        "technologies": ["JavaScript", "HTML", "CSS", "REST APIs", "User Authentication", "React", "React Router", "Create React App", "API Requests", "SQL", "SQL ORMs", "Sequelize", "Express" , "Asynchronous JavaScript", "Node.js", "npm"],
+        "github_link": "https://github.com/SteelMasterJ/Full-Stack-Course-Library-App",
+        "image_urls": ["/static/images/FullStack550-550.png", "/static/images/FullStack1200-550.png", "/static/images/FullStackLayout1200-550.png", "/static/images/FullStack5Layout1200-550.png", "/static/images/FullStack4Layout1200-550.png"]
         }
     ]
 }
